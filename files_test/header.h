@@ -1,8 +1,7 @@
-#include <iosream>
+#include <iostream>
 #include <cmath>
 #include <string>
 
-#include "main.cpp"
-
-#if "header.h"
-#endif "header.h"
+//sleep
+#include <chrono>
+#include <thread>
